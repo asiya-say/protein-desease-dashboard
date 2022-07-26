@@ -20,5 +20,5 @@ File _human_disease_experiments_full.tsv_ contains data from [Experiments channe
 Select the notepad you need and run the cells in sequence, then open the web page at [http://127.0.0.1:8050/](http://127.0.0.1:8050/).
 
 ### Example of proper work
-![image](https://user-images.githubusercontent.com/108821649/180904448-0a2d07d4-2ec0-49e9-ba1e-adf526b8074c.png)
+![image](https://user-images.githubusercontent.com/108821649/181105401-fd7782df-41f0-4476-b656-2ae831fbf28e.png)
 ![image](https://user-images.githubusercontent.com/108821649/180902808-28393090-bd7a-4e2b-b130-ba2413d9e83b.png)
