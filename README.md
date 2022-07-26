@@ -1,6 +1,6 @@
 # Protein-desease-dashboard
 ## What is this repository for?
-This repository has been designed to visualize the relationships in disease-gene associations. This work is based on data from articles obtained by the [Jense Lab](https://diseases.jensenlab.org/) project ([Github](https://github.com/larsjuhljensen/tagger)).
+This repository has been designed to visualize the relationships in disease-gene associations. This work is based on data from articles obtained by the [Jensen Lab](https://diseases.jensenlab.org/) project ([Github](https://github.com/larsjuhljensen/tagger)).
 
 ##  How to use?
 ### Prerequisites
