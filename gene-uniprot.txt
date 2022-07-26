@@ -1,0 +1,5 @@
+ORM1	P02763	Alpha-1-acid glycoprotein 1	liver
+SERPINA1	P01009	Alpha-1-antitrypsin	liver
+APOA1	P02647	Apolipoprotein A-I	liver
+ALB	P02768	Albumin	liver
+GPX3	P22352	Glutathione peroxidase 3	kidney
